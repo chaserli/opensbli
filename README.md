@@ -73,4 +73,4 @@ export PYTHONPATH=$PYTHONPATH:/path/to/OpenSBLI/base/directory
 12. DJ Lusher, SP Jammy, ND Sandham. *Shock-wave/boundary-layer interactions in the automatic source-code generation framework OpenSBLI*. **Computers & Fluids 173, 17-21 (2018)**.
 
 ## Contact
-If you wish to report a bug with the software, please contact [Satya P. Jammy](mailto:S.P.Jammy@soton.ac.uk) or [David J. Lusher](mailto:lusher.david@jaxa.jp)
+If you wish to report a bug with the software, please contact [Satya P. Jammy](mailto:satyapramod.j@srmap.edu.in) or [David J. Lusher](mailto:lusher.david@jaxa.jp)
